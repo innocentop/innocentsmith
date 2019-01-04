@@ -12,14 +12,15 @@ weight = 5
   interests = [
     "Liturgy",
     "Theology",
-    "Musicology"
+    "Musicology",
+    "Ecclesiology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Dr. theol. (Cand.)"
-  institution = "Stanford University"
-  year = 2018 – present
+  institution = "Universität Regensburg"
+  year = 2018
 
 [[education.courses]]
   course = "License of Sacred Theology (S.T.L.)"
