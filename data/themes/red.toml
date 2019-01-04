@@ -12,7 +12,7 @@ primary_dark = "#9f1010"
 # Menu
 menu_primary = "#000000"
 menu_text = "#fff"
-menu_text_active = "#9f1010"
+menu_text_active = "#000000"
 menu_title = "#fff"
 
 # Home sections
