@@ -194,9 +194,9 @@ enableGitInfo = false
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
-    'Book section'  # 6
-    'Encyclopedia entry' # 7
-    'Book Review' #8
+    'Book section',  # 6
+    'Encyclopedia entry', # 7
+    'Book Review', #8
   ]
 
   # Configuration of talk pages.
@@ -227,7 +227,7 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 1
+    publication_format = 4
 
     # Talk list format.
     #   0 = Simple
