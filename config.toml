@@ -52,12 +52,12 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Innocent Smith, op"
-  role = "Doctoral Student, Universität Regensburg"
+  name = "Innocent Smith"
+  role = "Doctoral Student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Universität Regensburg", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -107,7 +107,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = ""
+  description = "This is the academic home page for Innocent Smith, op."
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
