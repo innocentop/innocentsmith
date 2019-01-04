@@ -19,8 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Dr. theol. (Cand.)"
-  institution = "Universität Regensburg"
-  year = 
+  institution = "Universität Regensburg" 
 
 [[education.courses]]
   course = "License of Sacred Theology (S.T.L.)"
