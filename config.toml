@@ -52,7 +52,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Innocent Smith"
+  name = "Innocent Smith, op"
   role = "Doctoral Student"
 
   # Organizations/Affiliations.
@@ -98,7 +98,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "forest"
   # Enable users to switch between day and night mode?
   day_night = false
 
@@ -113,7 +113,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "innocentop"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -195,6 +195,8 @@ enableGitInfo = false
     'Report',  # 4
     'Book',  # 5
     'Book section'  # 6
+    'Encyclopedia entry' # 7
+    'Book Review' #8
   ]
 
   # Configuration of talk pages.
@@ -225,7 +227,7 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    publication_format = 1
 
     # Talk list format.
     #   0 = Simple
@@ -300,16 +302,6 @@ enableGitInfo = false
   name = "Posts"
   url = "#posts"
   weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
 
 [[menu.main]]
   name = "Contact"
