@@ -13,7 +13,9 @@ weight = 5
     "Liturgy",
     "Theology",
     "Musicology",
-    "Ecclesiology"
+    "Ecclesiology",
+    "Thomas Aquinas",
+    "Manuscript Studies,"
   ]
 
 # List your qualifications (such as academic degrees).
