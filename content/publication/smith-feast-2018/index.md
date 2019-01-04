@@ -4,7 +4,7 @@ date = 2018-01-01
 authors = ["Innocent Smith"]
 publication_types = ["2"]
 abstract = ""
-selected = false
+selected = true
 publication = "*Worship*"
 +++
 
